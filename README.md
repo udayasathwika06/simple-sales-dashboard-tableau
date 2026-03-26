@@ -1,4 +1,3 @@
-# Task8_elevatelabs
 # Simple Sales Dashboard – Tableau Project
 
 ## Objective:
